@@ -86,3 +86,33 @@ button {
   color: #fff;
   outline: none;
 }
+#home{
+    text-align: center;
+    padding: 20px;
+    margin-top: 250px;
+    margin-bottom: 20px;
+}
+.body{
+  background-image: url('https://bit.ly/3earspU');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  padding: 20px;
+}
+#about{
+  text-align: center;
+}
+#menu{
+  text-align: center;
+}
+#acc{
+  text-align: center;
+}
+#img{
+  display: flex;
+  justify-content: space-between;
+}
+.footer{
+  text-align: center;
+  background-color: aqua;
+}
